@@ -1,0 +1,17 @@
+[
+  {
+    "isbn": "1234567890",
+    "title": "Node.js Basics",
+    "author": "John Doe",
+    "reviews": {
+      "user1": "Great book!",
+      "user2": "Very helpful."
+    }
+  },
+  {
+    "isbn": "0987654321",
+    "title": "Express in Action",
+    "author": "Jane Smith",
+    "reviews": {}
+  }
+]
